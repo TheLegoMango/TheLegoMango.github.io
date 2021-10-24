@@ -15,9 +15,9 @@
     <br>
     <h1>Wires!<br>by TheLegoMango<br>on Khan Academy</h1>
     <br>
-    <br>............................................................................................................................
 	<!--This draws the canvas on the webpage -->
     <canvas id="mycanvas"></canvas> 
+    <br>
   </body>
  
   <!-- Include the processing.js library -->
