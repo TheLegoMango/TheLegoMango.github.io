@@ -1,6 +1,4 @@
 # TheLegoMango.github.io
-project website
-<!DOCTYPE html>
 <html> 
   <head>
     <title> WIRES!</title> 
@@ -15,7 +13,7 @@ project website
   </head>
   <body>
     <br>
-    ..............................................................................<h1>Wires!<br>by N01specific aka TheLegoMango<br>on Khan Academy</h1>
+    ..............................................................................<h1>Wires!<br>by TheLegoMango<br>on Khan Academy</h1>
     <br>
     <br>............................................................................................................................
 	<!--This draws the canvas on the webpage -->
